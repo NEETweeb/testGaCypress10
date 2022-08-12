@@ -2,4 +2,3 @@
 node_modules
 cypress/fixtures/example.json
 notes
-package-lock.json
